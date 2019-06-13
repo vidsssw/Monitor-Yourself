@@ -14,7 +14,7 @@ Anxiety- Columbia University
 
 ScreenShots:
 
-![Alt text](Screenshot_20190613-152812__01.jpg = 250x250)
+![](Screenshot_20190613-152812__01.jpg = 250x250)
 
 
 
