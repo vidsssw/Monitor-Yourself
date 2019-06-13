@@ -18,13 +18,13 @@ ScreenShots:
 
 
 
-![Alt text](Screenshot_20190613-152819__01.jpg?raw=true "First Page")
+![](Screenshot_20190613-152819__01.jpg?raw=true "First Page")
 
 
 
-![Alt text](Screenshot_20190613-152826__01.jpg?raw=true "First Page")
+![](Screenshot_20190613-152826__01.jpg?raw=true "First Page")
 
 
 
-![Alt text](Screenshot_20190613-152835__01.jpg?raw=true "First Page")
+![](Screenshot_20190613-152835__01.jpg?raw=true "First Page")
 
